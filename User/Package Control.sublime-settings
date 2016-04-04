@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Better Completion",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ChineseLocalization",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"CSS Format",
+		"Emmet",
+		"FileHeader",
+		"Gulp",
+		"HTML5",
+		"JsFormat",
+		"QuoteHTML",
+		"SideBarEnhancements",
+		"StyleToken",
+		"Tag",
+		"TrailingSpaces"
+	]
+}

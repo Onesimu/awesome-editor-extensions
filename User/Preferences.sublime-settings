@@ -1,0 +1,20 @@
+{
+	"ignored_packages":
+	[
+	],
+              "font_size": 12,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Microsoft YaHei Mono",
+	"translate_tabs_to_spaces": true,
+	"tab_size": 4,
+	"draw_minimap_border": true,
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"word_wrap": "true",
+	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"highlight_modified_tabs": true,
+	"default_line_ending": "unix",
+	"auto_find_in_selection": true
+}

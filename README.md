@@ -1,6 +1,6 @@
 # Awesome-Sublime
 
-A Collection for Font-End Sublime Text Plugins
+A Collection for Font-End Sublime Text Plugins/Packages
 
 ## Installed Packages
 

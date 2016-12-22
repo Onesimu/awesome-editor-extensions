@@ -1,8 +1,8 @@
-# Awesome-Sublime
+# awesome-editor-extensions
 
-A Collection for Font-End Sublime Text Plugins/Packages
+A Collection for Sublime Text and Visual Studio Code Plugins/Packages/Extensions
 
-## Installed Packages
+## Sublime Installed Packages
 
 -   Alignment
 -   Autoprefixer
@@ -44,13 +44,55 @@ A Collection for Font-End Sublime Text Plugins/Packages
 -   Tag
 -   TrailingSpace
 
+## Visutal Studio Code Extensions
+
+*   Microsoft.vscode-markdown
+*   ms-vscode.node-debug
+*   ms-vscode.node-debug2
+*   AlanWalk.markdown-toc
+*   HookyQR.beautify
+*   TwentyChung.jsx
+*   WakaTime.vscode-wakatime
+*   austin.code-gnu-global
+*   benfahrenheit.vscode-surround
+*   cdsama.shell-snippets
+*   dbaeumer.vscode-eslint
+*   donjayamanne.javadebugger
+*   donjayamanne.jquerysnippets
+*   dzannotti.vscode-babel-coloring
+*   freebroccolo.sml
+*   golf1052.code-sync
+*   hars.CppSnippets
+*   hoovercj.vscode-ghc-mod
+*   jameshrisho.redux-snippets
+*   justusadam.language-haskell
+*   lukehoban.Go
+*   mitaki28.vscode-clang
+*   ms-vscode.Theme-MarkdownKit
+*   ms-vscode.cpptools
+*   msjsdiag.debugger-for-chrome
+*   robertohuertasm.vscode-icons
+*   seanmcbreen.Spell
+*   taichi.react-beautify
+*   timothymclane.react-redux-es6-snippets
+*   vscodevim.vim
+*   wcwhitehead.bootstrap-3-snippets
+*   xabikos.ReactSnippets
+*   xaver.clang-forma
+
 ## Usage
 
-```shell
-git clone https://github.com/sabertazimi/Awesome-Sublime
+### Sublime Text
+
+```sh
+git clone https://github.com/sabertazimi/awesome-editor-extensions
 mv ~/.config/sublime-text-3/Packages/User ~/.config/sublime-text-3/Packages/User.bk
-cp -fr Awesome-Sublime/User ~/.config/sublime-text-3/Packages/
+cp -fr awesome-editor-extensions/sublime/User ~/.config/sublime-text-3/Packages/
 ```
+
+### Visual Studio Code
+
+Install code-sync extension on your vscode, then import extensions and settings by code-sync from .json files.
 
 ## License
 

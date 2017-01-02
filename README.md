@@ -1,6 +1,6 @@
 # awesome-editor-extensions
 
-A Collection for Sublime Text and Visual Studio Code Plugins/Packages/Extensions
+A Collection for Sublime Text, Visual Studio Code and Atom Plugins/Packages/Extensions
 
 ## Sublime Installed Packages
 
@@ -97,3 +97,11 @@ Install code-sync extension on your vscode, then import extensions and settings 
 ## License
 
 MIT License [@sabertazimi](https://github.com/sabertazimi)
+
+## Contact
+
+-   [![Email](https://img.shields.io/badge/mailto-sabertazimi-brightgreen.svg?style=flat-square)](mailto:sabertazimi@gmail.com)
+-   [![GitHub](https://img.shields.io/badge/contact-github-000000.svg?style=flat-square)](https://github.com/sabertazimi)
+-   [![Twitter](https://img.shields.io/badge/contact-twitter-blue.svg?style=flat-square)](https://twitter.com/sabertazimi)
+
+

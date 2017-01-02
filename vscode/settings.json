@@ -1,5 +1,6 @@
 {
     "window.zoomLevel": 1,
     "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "italic"
 }

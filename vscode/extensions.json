@@ -58,7 +58,7 @@
         "AlanWalk.markdown-toc",
         "DavidAnson.vscode-markdownlint",
         "EditorConfig.EditorConfig",
-        "TwentyChung.jsx",
+        "SintrumIT.theme-oceanic-next-italic",
         "WakaTime.vscode-wakatime",
         "abusaidm.html-snippets",
         "alefragnani.Bookmarks",
@@ -84,6 +84,7 @@
         "idleberg.badges",
         "idleberg.icon-fonts",
         "joelday.docthis",
+        "joshpeng.theme-onedark-sublime",
         "justusadam.language-haskell",
         "lukehoban.Go",
         "mitaki28.vscode-clang",
@@ -103,7 +104,6 @@
         "waderyan.gitblame",
         "wcwhitehead.bootstrap-3-snippets",
         "xabikos.ReactSnippets",
-        "yzane.markdown-pdf",
-        "zhuangtongfa.Material-theme"
+        "yzane.markdown-pdf"
     ]
 }
